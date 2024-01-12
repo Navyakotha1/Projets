@@ -1,0 +1,10 @@
+INPUT :
+200
+180
+
+OUTPUT:
+STUDENT RECORD SYSTEM
+Enter details to check eligibility:
+Enter the total number of classes held
+Enter the number of classes attended
+You are eligible for giving the examinations
